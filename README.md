@@ -11,4 +11,4 @@ I like to read when I have time
 I like to watch movies
 
 - Indiate your goal(s) you have for this course
-I would like to understand more about coding and build off of my skills from last year
+I would like to understand more about coding and build off of my skills from last year.
